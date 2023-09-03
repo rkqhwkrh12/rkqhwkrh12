@@ -1,6 +1,6 @@
 ### Hi~~ I'm BONG
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=light-blue&height=300&section=header&text=Welcome%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=blue&height=300&section=header&text=Welcome%20render&fontSize=90)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
